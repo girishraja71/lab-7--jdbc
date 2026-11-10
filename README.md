@@ -54,19 +54,19 @@ screenshots/                         – screenshots of the running app
 ## Screenshots
 
 ### Create user
-![Create user](screenshots/01_create_user.png)
+![Create user](Lab7Project_latest/screenshots/lab%207%20new%201.png)
 
 ### Update user
-![Update user](screenshots/02_update_user.png)
+![Update user](Lab7Project_latest/screenshots/lab%207%20new%202.png)
 
 ### View users (JTable)
-![View table](screenshots/03_view_table.png)
+![View table](Lab7Project_latest/screenshots/lab%207%20new%203.png)
 
 ### Delete user
-![Delete confirm](screenshots/04_delete_confirm.png)
+![Delete confirm](Lab7Project_latest/screenshots/lab%207%20new%204.png)
 
 ### Duplicate email check
-![Duplicate email](screenshots/05_duplicate_email.png)
+![Duplicate email](Lab7Project_latest/screenshots/lab%207%20new%205.png)
 
 ### Data in MySQL Workbench
-![Workbench rows](screenshots/06_workbench_rows.png)
+![Workbench rows](Lab7Project_latest/screenshots/lab%207%20new%206.png)
